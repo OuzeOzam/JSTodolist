@@ -1,6 +1,6 @@
 # JSTodolist
 
-Petit projet Javascript pour manipuler les éléments dde base du JS.
+Petit projet Javascript pour manipuler les éléments de base du JS.
 
 Ce projet s'est fait en html css et javascript Vanilla.
 
